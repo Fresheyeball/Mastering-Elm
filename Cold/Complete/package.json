@@ -1,0 +1,18 @@
+{
+  "name": "cold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js",
+    "test": "elm-test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elm-test": "^0.18.2",
+    "finalhandler": "^1.0.2",
+    "serve-static": "^1.12.1",
+    "watch-fs": "0.0.7"
+  }
+}
